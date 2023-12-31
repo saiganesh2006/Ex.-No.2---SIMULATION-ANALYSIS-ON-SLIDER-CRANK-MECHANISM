@@ -47,7 +47,7 @@
 ![image](https://github.com/saiganesh2006/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/145742342/1b3af45c-5a71-4e57-8534-fb85f9a25497)
 
 
-### Name: .B.V.SAI GANESH
+### Name: D.B.V.SAI GANESH
 ### Register Number: 212223240025
 
 ## RESULT:
